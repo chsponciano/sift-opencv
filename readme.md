@@ -12,4 +12,4 @@ Training images: <br>
 <img src="data/img3.jpg" width="200" height="300" />
 
 Image resulting from the algorithm developed with SIFT:<br>
-![result](output.jpg)
+<img src="output.jpg" width="400" height="600" />
